@@ -1,0 +1,49 @@
+url: https://y7kim.github.io
+baseurl: "/agency-jekyll-theme/"
+
+# Site settings
+title: Portafolio AMAZING
+email: daviddurazo@hotmail.com
+description: "Portafolio super increíble para clase de ADOO"
+
+
+# Team names, titles and social links
+people:
+- name: David Durazo
+  pic: 1
+  position: Director
+  social:
+    - title: facebook
+      url: https://www.facebook.com/DavidDurazo.48
+
+- name: David Durazo
+  pic: 2
+  position: Conserje 
+  social:
+
+    - title: facebook
+      url: https://www.facebook.com/DavidDurazo.48
+
+- name: David Durazo
+  pic: 3
+  position: Enfermero
+  social:
+    - title: facebook
+      url: https://www.facebook.com/DavidDurazo.48
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/DavidDurazo.48
+  - title: github
+    url: https://github.com/daviddurazo
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: P. Sherman 42 Wallaby Way
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
